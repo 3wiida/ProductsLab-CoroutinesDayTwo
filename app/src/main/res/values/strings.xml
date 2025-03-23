@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVVMLab</string>
+    <string name="title_activity_fav_products">FavProductsActivity</string>
+</resources>
